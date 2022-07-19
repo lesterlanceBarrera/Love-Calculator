@@ -1,0 +1,41 @@
+body {
+    background-color: #FFE6E6;
+}
+h1 {
+    font-size: 5rem;
+    color: #748DA6;
+    font-family: 'Dancing Script', cursive;
+}
+
+.inputName {
+    padding:10px;
+ }
+
+#heading {
+    padding: 15% 15%;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+#statement {
+	color: #354259;
+    font-size: 85px;
+    text-shadow: 1px 1px 1px #646161;
+	height: 150px;
+}
+
+#print {
+    padding-top: 5%;
+    color: #748DA6;
+    font-family: 'Merriweather', serif;
+}
+
+#bio {
+    color: #9CB4CC;
+    font-family: 'Merriweather', serif;
+}
+
+#statement {
+    color: #354259;
+    font-size: 3rem;
+}
